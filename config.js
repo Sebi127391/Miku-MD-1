@@ -14,13 +14,13 @@ global.BotName = "Miku"
 global.packname = "Erstellt für ✨️MAGIC✨️"
 global.author = "✨️MAGIC✨️"
 global.OwnerName = "✨️MAGIC✨️"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.BotSourceCode = "https://github.com/Fw437f/Miku-MD" // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/C4UvfSXyYZoDSV3gJDyCm3"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
 
-global.prefa = ['!'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
 
 
 global.location = "West-Berlin"
