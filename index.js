@@ -27,14 +27,14 @@ console.log(color(figlet.textSync('Miku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHallo, I am Sebastian, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: Sebi127391','aqua'))
+console.log(color('\nHallo, I am ✨️MAGIC✨️, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
+console.log(color('\nYou can follow me on GitHub: Fw437f,'aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Miku = MikuConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Miku by: Sebastian','Safari','1.0.0'],
+        browser: ['Miku by: ✨️MAGIC✨️','Safari','1.0.0'],
         auth: state,
         version
     })
